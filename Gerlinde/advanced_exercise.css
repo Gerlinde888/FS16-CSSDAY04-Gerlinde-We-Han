@@ -18,7 +18,7 @@
 
 .item1 {
     background-image: url("https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492__340.jpg");
-    background-size: contain;
+    background-size: auto;
     align-content: center;
     background-repeat: no-repeat;
     grid-column: 1/3;
