@@ -1,0 +1,15 @@
+.btn {
+    background-color: blueviolet;
+    border-color: blueviolet;
+    width:100px;
+    height: 40px;
+    color: white;
+}
+.btn:hover {
+    background-color: white;
+    border-color: blueviolet;
+    border-radius: 50 px;
+    width: 110px;
+    height: 41px;
+    color: blueviolet
+}
